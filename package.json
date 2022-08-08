@@ -1,0 +1,11 @@
+{
+  "name": "onglet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/mainscss.scss:./css/onglet.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
